@@ -1,0 +1,6 @@
+# Autorise tous les robots (Google, Bing, etc.) à explorer le site
+User-agent: *
+Allow: /
+
+# Indique l'emplacement du sitemap pour faciliter l'indexation
+Sitemap: https://tchandocladore.netlify.app/sitemap.xml
